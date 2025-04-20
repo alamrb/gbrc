@@ -17,7 +17,7 @@ const Contact = () => {
             <div className="space-y-4">
               <div className="flex items-center">
                 <Mail className="h-6 w-6 text-blue-600" />
-                <span className="ml-3">contact@germanbanglacloud.com</span>
+                <span className="ml-3">alamrb2023@gmail.com</span>
               </div>
               <div className="flex items-center">
                 {/* <Phone className="h-6 w-6 text-blue-600" /> */}
@@ -67,7 +67,7 @@ const Contact = () => {
             </div>
           </div>
 
-          <form className="space-y-6">
+{/*           <form className="space-y-6">
             <div>
               <label
                 htmlFor="name"
@@ -113,7 +113,7 @@ const Contact = () => {
             >
               Send Message
             </button>
-          </form>
+          </form> */}
         </div>
       </div>
     </div>
